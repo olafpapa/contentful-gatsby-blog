@@ -1,3 +1,4 @@
+import 'prismjs/themes/prism-solarizedlight.css'
 import React from 'react'
 import Link from 'gatsby-link'
 import base from './base.css'
