@@ -49,10 +49,14 @@ a {
   grid-gap: 5vmin;
 }
 
+.article-list li {
+  border-bottom: 1px solid #ddd;
+}
 /**
  *
  */
 .section-headline {
+  font-weight: bold;
   padding: 0 0 0.4em 0;
   margin: 0 0 5vmin 0;
   border-bottom: 1px solid #ddd;
